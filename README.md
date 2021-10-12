@@ -18,6 +18,7 @@
    正在做EVM智能合约平台的迁移，让基于XBTC的Dapp可以通过BTC的二层EVM合约平台,兼容以太坊的solidity合约，以及兼容metamask等以太坊周边工具作为该平台的使用工具。让ComingApp成为这个智能合约平台的入口。
 ## 路线图
 2021.10， ChainX 平行链[MiniX Chain]（https://miniscan.coming.chat/）, 融合 门限签名Module以及接入Coming 门限签名钱包。为后续ChainX网络的接入做准备。
+
 2021.11， 更换当前ChainX的多签托管模式，采用taproot升级（大约在11月份中旬左右BTC网络升级）后的 MAST合约和施诺尔签名算法组合的门限签名钱包（ComingApp），更换ChainX的多签托管验证节点。
   2点好处：
 - 1， 可以任意大的托管节点规模。
